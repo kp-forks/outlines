@@ -8,7 +8,6 @@
 
 Made with ❤👷️ by the team at [.txt](https://dottxt.co)
 <br>Trusted by NVIDIA, Cohere, HuggingFace, vLLM, etc.
-<br>The .txt API is currently in early access. **[Request access here →](https://h1xbpbfsf0w.typeform.com/to/fwQNWmS8?utm_source=github&utm_medium=organic&utm_campaign=outlines)**
 
 <!-- Project Badges -->
 [![PyPI Version][pypi-version-badge]][pypi]
@@ -19,6 +18,9 @@ Made with ❤👷️ by the team at [.txt](https://dottxt.co)
 [![Discord][discord-badge]][discord]
 [![Blog][dottxt-blog-badge]][dottxt-blog]
 [![Twitter][twitter-badge]][twitter]
+
+<br>The .txt API is currently in early access. **[Request access here →](https://h1xbpbfsf0w.typeform.com/to/fwQNWmS8?utm_source=github&utm_medium=organic&utm_campaign=outlines)**
+
 
 </div>
 
